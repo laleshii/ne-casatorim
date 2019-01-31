@@ -1,0 +1,12 @@
+@font-face {
+  font-family: Pennellino;
+  src: url('~assets/fonts/pennellino.ttf');
+}
+
+.font-pennellino {
+  font-family: Pennellino;
+}
+
+.text-6xl {
+  font-size: 4rem;
+}
