@@ -18,6 +18,9 @@ import Logo from '~/components/Logo.vue'
 export default {
   components: {
     Logo
+  },
+  head: {
+    title: '24 August 2019 - Talida & Rares'
   }
 }
 </script>
