@@ -26,7 +26,7 @@
               {{ $t('wedding_party') }}
             </div>
             <div class="font-serif text-xl">
-              15:00
+              19:00
             </div>
           </div>
           <div class="w-full lg:w-1/3 mb-8 bg-roz h-406">
