@@ -7,14 +7,14 @@
       <div class="w-1/3">
         <h1 class="font-pennellino font-normal text-4xl mt-4">
           <nuxt-link
-            to="info"
+            :to="localePath('info')"
             class="text-black hover:text-red no-underline">
             Talida & Rares
           </nuxt-link>
         </h1>
         <h2 class="font-pennellino font-normal text-2xl">
           <nuxt-link
-            to="info"
+            :to="localePath('info')"
             class="text-black hover:text-red no-underline">
             24 August 2019
           </nuxt-link>

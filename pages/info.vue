@@ -58,7 +58,7 @@
               RSVP
             </div>
             <nuxt-link
-              to="rsvp"
+              :to="localePath('rsvp')"
               class="font-serif text-xl text-red-darker hover:text-red no-underline"
               tag="button">
               {{ $t('confirm_decline') }}
@@ -68,14 +68,14 @@
               {{ $t('extra_info') }}
             </div>
             <nuxt-link
-              to="accommodation"
+              :to="localePath('accommodation')"
               class="font-serif text-xl text-red-darker hover:text-red no-underline"
               tag="button">
               {{ $t('accommodation') }}
             </nuxt-link>
             <br/><br/>
             <nuxt-link
-              to="tips"
+              :to="localePath('tips')"
               class="font-serif text-xl text-red-darker hover:text-red no-underline"
               tag="button">
               {{ $t('travel_tips') }}
