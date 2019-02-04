@@ -5,7 +5,7 @@
         <img class="h-24" src="~assets/images/flower-1-left.png" />
       </div>
       <div class="w-1/3">
-        <h1 class="font-pennellino font-normal text-4xl">
+        <h1 class="font-pennellino font-normal text-4xl mt-4">
           <nuxt-link
             to="info"
             class="text-black hover:text-red no-underline">

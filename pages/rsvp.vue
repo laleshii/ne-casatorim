@@ -113,7 +113,7 @@ export default {
       this.$store.commit('guests/add', {
         name: '',
         coming: this.coming,
-        menu: 'standard'
+        menu: this.coming ? 'standard' : ''
       })
     },
     deleteGuest(guest) {
