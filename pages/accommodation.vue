@@ -12,10 +12,10 @@
           v-html="$t('accommodation_details1')">
         </p><br/>
         <div class="text-center">
-          <a class="font-serif text-xl text-red-darker hover:text-red no-underline" href="https://goo.gl/maps/1i26WpPHgRu">
+          <a class="font-serif text-xl text-red-darker hover:text-red no-underline" href="https://goo.gl/maps/ZR7aWxjjQ172">
             Hotel Anna
           </a><br/>
-          <a class="font-serif text-xl text-red-darker hover:text-red no-underline" href="https://goo.gl/maps/1i26WpPHgRu">
+          <a class="font-serif text-xl text-red-darker hover:text-red no-underline" href="https://goo.gl/maps/P3gwZ19knv52">
             Hotel Anna Junior
           </a>
         </div>
